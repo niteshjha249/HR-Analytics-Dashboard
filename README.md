@@ -26,7 +26,7 @@ This project focuses on analyzing **employee attrition trends** using **Power BI
 ## 🛠 Tools & Technologies
 - **Power BI Desktop** for dashboard creation
 - **Data Cleaning & Transformation**: Power Query
-- **Data Source**: HR dataset (CSV format)
+- **Data Source**: HR_Analytics (CSV format)
 
 ---
 
@@ -38,14 +38,3 @@ This project focuses on analyzing **employee attrition trends** using **Power BI
 - **Employees with 0–5 years tenure** have the highest attrition rate.
 - Most attrition happens in **26–35 age group**.
 - **Lower salary slabs (up to 5K)** have higher attrition.
-
----
-
-## 🔍 How to Use
-1. Download the `.pbix` file from the repository.
-2. Open it in **Power BI Desktop**.
-3. Explore interactive visuals and filters to analyze the data.
-
----
-
-## 📂 Project Structure
