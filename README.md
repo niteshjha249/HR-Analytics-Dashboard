@@ -1,6 +1,3 @@
-# Saving the README content to a text file so the user can directly use it.
-
-readme_content = """
 # HR Analytics Dashboard – Power BI Project
 
 ## 📌 Project Overview
